@@ -5,6 +5,6 @@ package demo1;
  */
 public class main {
     public static void main(String args[]){
-        System.out.print("66666");
+        System.out.print("999999");
     }
 }
